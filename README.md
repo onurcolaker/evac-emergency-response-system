@@ -1,8 +1,6 @@
-# evac-emergency-response-system
-System-level engineering project focused on workflow design, feasibility and reliability for emergency response.
-EVAC – Emergency Response System Design Project
-Project Overview
-
+# EVAC – Emergency Response System Design Project
+## Project Overview
+EVAC is a system-level engineering project focused on designing a compact, reliable, and self-sufficient emergency response solution...
 EVAC is a system-level engineering project focused on designing a compact, reliable, and self-sufficient emergency response solution. The project addresses a critical problem observed during natural disasters and industrial accidents: the inability to quickly gather essential survival equipment under stress and panic.
 
 Problem Definition
